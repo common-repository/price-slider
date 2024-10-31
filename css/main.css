@@ -1,0 +1,31 @@
+input.finput, textarea.finput, select.finput {
+    width: 250px;
+}
+
+.fhidden {
+    display: none;
+}
+
+
+div.b_container {
+    width: 100%;
+    clear: both;
+    display: block;
+    min-height: 700px;
+}
+
+select.finput {
+    text-align: center;
+}
+
+
+div.b_tabs {
+    clear: both;
+}
+
+div.b_tab {
+    margin-top: 20px;
+    width: 300px;
+/*    height: 280px;*/
+    float: left;
+}
